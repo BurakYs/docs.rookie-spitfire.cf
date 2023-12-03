@@ -33,8 +33,8 @@ If you haven't received your V-Bucks back, please exit the game and re-enter.
 
 ### :x: Error
 
-If you received an error saying "This purchase couldn't refunded", this means that you can't return the item for free.\
+If you received an error saying "This purchase couldn't refunded", this means that you can't refund the item for free.\
 \
-However, if you refunded the purchased item within 24 hours and bought it again, you can return it after 24 hours.
+However, if you refunded the purchased item within 24 hours and bought it again, you can refund it after 24 hours.
 
 <figure><img src="../.gitbook/assets/undo-purchase-error.png" alt="Undo Purchase Command Error"><figcaption></figcaption></figure>
