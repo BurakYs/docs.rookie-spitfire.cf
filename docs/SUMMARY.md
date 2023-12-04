@@ -14,7 +14,6 @@
 
 * [🆓 Free Refunds](features/free-refunds.md)
 * [👻 Ghost Equip](features/ghost-equip.md)
-* [🔒 Save Progress](features/save-progress.md)
 * [🖼 Locker Images](features/locker-images.md)
 * [🛒 Item Shop](features/item-shop.md)
 * [🗓 Reminders](features/reminders.md)
