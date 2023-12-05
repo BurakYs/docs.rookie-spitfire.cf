@@ -31,7 +31,8 @@ Premiums have many benefits. Here is a list of them:
 
 ## :star2: How can I get Premium?
 
-There are many ways to get premium, some of them free.
+There are many ways to get premium, some of them free.\
+**NOTE:** By buying/receiving Premium, you agree to our [Terms of Service](https://rookie-spitfire.cf/tos) and [Privacy Policy](https://rookie-spitfire.cf/privacy-policy).
 
 ### :rocket: Boost the Support Server
 
@@ -39,7 +40,20 @@ When you boost the server when total boost count is **under 26**, you will recei
 
 ### :dollar: Transfer Me Money
 
-Unfortunately, for a certain period of time, people outside of Turkey can't buy Premium. Users living in Turkey can join our support server to learn how to buy Premium.
+Unfortunately, for a certain period of time, people outside of Turkey can't buy Premium. If you are a Turkish user, you can buy through [Papara](https://papara.com) or [ItemSatış](https://itemsatis.com).
+
+#### Papara
+
+If you want to buy through [Papara](https://papara.com), you need to join our[ support server](https://rookie-spitfire.cf/support) then create a ticket.
+
+#### ItemSatış
+
+If you want to buy through [ItemSatış](https://itemsatis.com), you can buy Premium using these links:\
+[1 Month of Premium](https://www.itemsatis.com/discord/rookie-spitfire-premium-1-aylik-1941367.html) for 15₺\
+[3 Months of Premium](https://www.itemsatis.com/discord/rookie-spitfire-premium-3-aylik-1941423.html) for 35₺\
+[Lifetime Premium](https://www.itemsatis.com/discord/rookie-spitfire-premium-sonsuz-1941429.html) for 150₺\
+\
+The process is fully automatic. Visit [notifications](https://itemsatis.com/bildirimler.html) to get your Premium activation code.
 
 ### 📰 Advertise Us
 
