@@ -18,13 +18,13 @@ Premiums have many benefits. Here is a list of them:
 **/friends decline-all-incoming** - Decline every incoming friend request\
 **/friends cancel-all-outgoing** - Cancel every outgoung friend request\
 **/custom-profile** - Change the skin you see in the bot's embeds\
+**/ghost-equip** - Equip any skin/dance/pickaxe/backbling you don't own in a party\
 **/fake-crown-wins** - Set your crowns to a fake crown amount in your party\
 **/fake-level** - Set your level to a fake level in your party
 
 ### :unlock: Access to Special Features
 
 **No Limits in Undo-Purchase** - Remove weekly refund limit from `/undo-purchase` command \
-**Style Support in Ghost-Equip** - Change the style of the cosmetic with Premium \
 **All Bulk Operations** - View V-Bucks on all your accounts, redeem codes on all your accounts by selecting `bulk: true` option
 
 
